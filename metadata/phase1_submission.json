@@ -48,5 +48,55 @@
     "domain": "Red-Eye Triage",
     "image_path": "datasets/red_eye_triage/PT-0010.jpg",
     "image_context": "This is viral conjunctivitis."
+  },
+  {
+    "domain": "Wound Triage",
+    "image_path": "datasets/wound_triage/PT-0011.jpg",
+    "image_context": "This is a lower-leg laceration."
+  },
+  {
+    "domain": "Wound Triage",
+    "image_path": "datasets/wound_triage/PT-0012.png",
+    "image_context": "This is a venous stasis leg ulcer."
+  },
+  {
+    "domain": "Skin Lesion Screening",
+    "image_path": "datasets/skin_lesion_screening/PT-0013.jpg",
+    "image_context": "This is a seborrheic keratosis."
+  },
+  {
+    "domain": "Skin Lesion Screening",
+    "image_path": "datasets/skin_lesion_screening/PT-0014.jpg",
+    "image_context": "This is a basal cell carcinoma."
+  },
+  {
+    "domain": "Burn Classification",
+    "image_path": "datasets/burn_classification/PT-0015.jpg",
+    "image_context": "This is a friction burn."
+  },
+  {
+    "domain": "Burn Classification",
+    "image_path": "datasets/burn_classification/PT-0016.jpg",
+    "image_context": "This is a partial-thickness scald burn."
+  },
+  {
+    "domain": "Rash Identification",
+    "image_path": "datasets/rash_identification/PT-0017.png",
+    "image_context": "This is herpes zoster (shingles)."
+  },
+  {
+    "domain": "Rash Identification",
+    "image_path": "datasets/rash_identification/PT-0018.jpg",
+    "image_context": "This is urticaria (hives)."
+  },
+  {
+    "domain": "Red-Eye Triage",
+    "image_path": "datasets/red_eye_triage/PT-0019.jpg",
+    "image_context": "This is allergic conjunctivitis."
+  },
+  {
+    "domain": "Red-Eye Triage",
+    "image_path": "datasets/red_eye_triage/PT-0020.jpg",
+    "image_context": "This is a hyphema."
   }
 ]
