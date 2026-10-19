@@ -1,0 +1,112 @@
+[
+  {
+    "task_id": "PT-0001",
+    "image_path": "datasets/wound_triage/PT-0001.jpg",
+    "domain": "Wound Triage",
+    "image_context": "This is a superficial abrasion.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Abrasion_on_hand_20050906.jpg",
+    "license": "Public domain",
+    "qa_status": "approved",
+    "qa_flags": [],
+    "reviewer_notes": "Clinically verified superficial abrasion on dorsum of hand. Single photo, zero PII, zero watermarks."
+  },
+  {
+    "task_id": "PT-0002",
+    "image_path": "datasets/wound_triage/PT-0002.jpg",
+    "domain": "Wound Triage",
+    "image_context": "This is a diabetic foot ulcer.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Neuropathic_heel_ulcer_diabetic.jpg",
+    "license": "CC-BY-3.0",
+    "qa_status": "approved",
+    "qa_flags": [],
+    "reviewer_notes": "Clinically verified chronic neuropathic plantar heel ulcer in diabetic patient. No PII, no watermark."
+  },
+  {
+    "task_id": "PT-0003",
+    "image_path": "datasets/skin_lesion_screening/PT-0003.jpg",
+    "domain": "Skin Lesion Screening",
+    "image_context": "This is a benign mole.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Congenital_nevus_from_CDC.jpg",
+    "license": "Public domain (CDC PHIL #13442)",
+    "qa_status": "approved",
+    "qa_flags": [],
+    "reviewer_notes": "CDC-sourced congenital melanocytic nevus. Reassuring uniform features, no PII, no watermark."
+  },
+  {
+    "task_id": "PT-0004",
+    "image_path": "datasets/skin_lesion_screening/PT-0004.jpg",
+    "domain": "Skin Lesion Screening",
+    "image_context": "This is melanoma.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Melanoma.jpg",
+    "license": "Public domain (National Cancer Institute)",
+    "qa_status": "approved",
+    "qa_flags": [],
+    "reviewer_notes": "NCI verified cutaneous melanoma exhibiting asymmetric borders and irregular pigment. No PII, no watermark."
+  },
+  {
+    "task_id": "PT-0005",
+    "image_path": "datasets/burn_classification/PT-0005.png",
+    "domain": "Burn Classification",
+    "image_context": "This is a sunburn (superficial burn).",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Sunburned_knee.png",
+    "license": "CC-BY-SA-4.0",
+    "qa_status": "approved",
+    "qa_flags": [],
+    "reviewer_notes": "Verified superficial solar erythema without blistering below clothing line on knee. No face/PII, no watermark."
+  },
+  {
+    "task_id": "PT-0006",
+    "image_path": "datasets/burn_classification/PT-0006.jpg",
+    "domain": "Burn Classification",
+    "image_context": "This is a partial-thickness burn on the foot.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:8-day-old-3rd-degree-burn.jpg",
+    "license": "Public domain",
+    "qa_status": "approved",
+    "qa_flags": [],
+    "reviewer_notes": "Verified thermal contact burn on arch of foot. Clear tissue margins, no face/PII, no watermark."
+  },
+  {
+    "task_id": "PT-0007",
+    "image_path": "datasets/rash_identification/PT-0007.jpg",
+    "domain": "Rash Identification",
+    "image_context": "This is poison ivy (allergic contact dermatitis).",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Poision_Ivy_2012.jpg",
+    "license": "CC-BY-SA-3.0",
+    "qa_status": "approved",
+    "qa_flags": [],
+    "reviewer_notes": "Verified allergic contact dermatitis with characteristic linear bullae on lower extremity. No face/PII, no watermark."
+  },
+  {
+    "task_id": "PT-0008",
+    "image_path": "datasets/rash_identification/PT-0008.jpg",
+    "domain": "Rash Identification",
+    "image_context": "This is hand-foot-and-mouth disease.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Characteristic_rash_of_hand,_foot,_and_mouth_disease,_on_human_hands.jpg",
+    "license": "CC-BY-SA-3.0",
+    "qa_status": "approved",
+    "qa_flags": [],
+    "reviewer_notes": "Verified characteristic palmar exanthem from Coxsackievirus. Palmar distribution, no face/PII, no watermark."
+  },
+  {
+    "task_id": "PT-0009",
+    "image_path": "datasets/red_eye_triage/PT-0009.jpeg",
+    "domain": "Red-Eye Triage",
+    "image_context": "This is a subconjunctival hemorrhage.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:SubconjunctivalHaemorrhage.jpeg",
+    "license": "CC-BY-SA-4.0",
+    "qa_status": "approved",
+    "qa_flags": [],
+    "reviewer_notes": "Verified benign sharply bordered subconjunctival bleed with clear cornea. Tight periorbital crop, no full face, no watermark."
+  },
+  {
+    "task_id": "PT-0010",
+    "image_path": "datasets/red_eye_triage/PT-0010.jpg",
+    "domain": "Red-Eye Triage",
+    "image_context": "This is viral conjunctivitis.",
+    "source_url": "https://commons.wikimedia.org/wiki/File:An_eye_with_viral_conjunctivitis.jpg",
+    "license": "CC-BY-SA-3.0",
+    "qa_status": "approved",
+    "qa_flags": [],
+    "reviewer_notes": "Verified acute conjunctival injection and mild discharge. Tight eye crop, no full face, no watermark."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "domain": "Wound Triage",
+    "image_path": "datasets/wound_triage/PT-0001.jpg",
+    "image_context": "This is a superficial abrasion."
+  },
+  {
+    "domain": "Wound Triage",
+    "image_path": "datasets/wound_triage/PT-0002.jpg",
+    "image_context": "This is a diabetic foot ulcer."
+  },
+  {
+    "domain": "Skin Lesion Screening",
+    "image_path": "datasets/skin_lesion_screening/PT-0003.jpg",
+    "image_context": "This is a benign mole."
+  },
+  {
+    "domain": "Skin Lesion Screening",
+    "image_path": "datasets/skin_lesion_screening/PT-0004.jpg",
+    "image_context": "This is melanoma."
+  },
+  {
+    "domain": "Burn Classification",
+    "image_path": "datasets/burn_classification/PT-0005.png",
+    "image_context": "This is a sunburn (superficial burn)."
+  },
+  {
+    "domain": "Burn Classification",
+    "image_path": "datasets/burn_classification/PT-0006.jpg",
+    "image_context": "This is a partial-thickness burn on the foot."
+  },
+  {
+    "domain": "Rash Identification",
+    "image_path": "datasets/rash_identification/PT-0007.jpg",
+    "image_context": "This is poison ivy (allergic contact dermatitis)."
+  },
+  {
+    "domain": "Rash Identification",
+    "image_path": "datasets/rash_identification/PT-0008.jpg",
+    "image_context": "This is hand-foot-and-mouth disease."
+  },
+  {
+    "domain": "Red-Eye Triage",
+    "image_path": "datasets/red_eye_triage/PT-0009.jpeg",
+    "image_context": "This is a subconjunctival hemorrhage."
+  },
+  {
+    "domain": "Red-Eye Triage",
+    "image_path": "datasets/red_eye_triage/PT-0010.jpg",
+    "image_context": "This is viral conjunctivitis."
+  }
+]

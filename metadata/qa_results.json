@@ -1,0 +1,162 @@
+[
+  {
+    "task_id": "PT-0001",
+    "is_valid": true,
+    "computed_status": "approved",
+    "current_status": "approved",
+    "blocking_errors": [],
+    "warning_flags": [],
+    "image_info": {
+      "format": "JPEG",
+      "size": [
+        2816,
+        2112
+      ],
+      "mode": "RGB"
+    }
+  },
+  {
+    "task_id": "PT-0002",
+    "is_valid": true,
+    "computed_status": "approved",
+    "current_status": "approved",
+    "blocking_errors": [],
+    "warning_flags": [],
+    "image_info": {
+      "format": "JPEG",
+      "size": [
+        750,
+        563
+      ],
+      "mode": "RGB"
+    }
+  },
+  {
+    "task_id": "PT-0003",
+    "is_valid": true,
+    "computed_status": "approved",
+    "current_status": "approved",
+    "blocking_errors": [],
+    "warning_flags": [],
+    "image_info": {
+      "format": "JPEG",
+      "size": [
+        1323,
+        844
+      ],
+      "mode": "RGB"
+    }
+  },
+  {
+    "task_id": "PT-0004",
+    "is_valid": true,
+    "computed_status": "approved",
+    "current_status": "approved",
+    "blocking_errors": [],
+    "warning_flags": [],
+    "image_info": {
+      "format": "JPEG",
+      "size": [
+        2450,
+        1705
+      ],
+      "mode": "RGB"
+    }
+  },
+  {
+    "task_id": "PT-0005",
+    "is_valid": true,
+    "computed_status": "approved",
+    "current_status": "approved",
+    "blocking_errors": [],
+    "warning_flags": [],
+    "image_info": {
+      "format": "PNG",
+      "size": [
+        1288,
+        966
+      ],
+      "mode": "RGB"
+    }
+  },
+  {
+    "task_id": "PT-0006",
+    "is_valid": true,
+    "computed_status": "approved",
+    "current_status": "approved",
+    "blocking_errors": [],
+    "warning_flags": [],
+    "image_info": {
+      "format": "JPEG",
+      "size": [
+        2816,
+        2112
+      ],
+      "mode": "RGB"
+    }
+  },
+  {
+    "task_id": "PT-0007",
+    "is_valid": true,
+    "computed_status": "approved",
+    "current_status": "approved",
+    "blocking_errors": [],
+    "warning_flags": [],
+    "image_info": {
+      "format": "JPEG",
+      "size": [
+        1944,
+        2592
+      ],
+      "mode": "RGB"
+    }
+  },
+  {
+    "task_id": "PT-0008",
+    "is_valid": true,
+    "computed_status": "approved",
+    "current_status": "approved",
+    "blocking_errors": [],
+    "warning_flags": [],
+    "image_info": {
+      "format": "JPEG",
+      "size": [
+        4252,
+        2607
+      ],
+      "mode": "RGB"
+    }
+  },
+  {
+    "task_id": "PT-0009",
+    "is_valid": true,
+    "computed_status": "approved",
+    "current_status": "approved",
+    "blocking_errors": [],
+    "warning_flags": [],
+    "image_info": {
+      "format": "JPEG",
+      "size": [
+        1480,
+        1247
+      ],
+      "mode": "RGB"
+    }
+  },
+  {
+    "task_id": "PT-0010",
+    "is_valid": true,
+    "computed_status": "approved",
+    "current_status": "approved",
+    "blocking_errors": [],
+    "warning_flags": [],
+    "image_info": {
+      "format": "JPEG",
+      "size": [
+        915,
+        640
+      ],
+      "mode": "RGB"
+    }
+  }
+]
